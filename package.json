@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnaud-Dvg/Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnaud-Dvg/Node/issues"
+  },
+  "homepage": "https://github.com/Arnaud-Dvg/Node#readme",
+  "description": "",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.7"
+  }
+}
