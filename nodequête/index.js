@@ -7,7 +7,7 @@ const campus = process.env.CAMPUS;
 console.log(
   cowsay.say({
     text: `I am ${name} from ${campus} campus.`,
-    e: "oO", // Yeux de la vache
-    T: "U ", // Langue de la vache
+    e: "oO",
+    T: "U ",
   })
 );
